@@ -1,0 +1,5 @@
+shadowJar{
+    baseName = "FortniteMC-API.jar"
+}
+
+build.dependsOn(shadowJar)
